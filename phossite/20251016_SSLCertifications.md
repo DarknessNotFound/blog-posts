@@ -1,8 +1,8 @@
 ---
 title: Church Website Builders Should Provide SSL Certifications for Free
 slug: ssl-certification-should-be-free
-tags: ['church', 'technology']
-series: 
+tags: ['church', 'websites']
+series: building-a-church-website
 summary: There are church website builders who charge for SSL certifications that you can get for free. These should be included when building a website.
 pinned: false
 published: 2025-10-16

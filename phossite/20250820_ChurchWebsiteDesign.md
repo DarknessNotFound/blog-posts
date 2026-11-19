@@ -1,8 +1,8 @@
 ---
 title: Unforeseen costs in Church Website Building
 slug: costs-in-church-website-building
-tags: ['church', 'technology']
-series: 
+tags: ['church', 'websites']
+series: building-a-church-website
 summary: Church websites can have many costs beyond the initial setup fee and maintenance fee. Let's learn about all the unforeseen costs that churches don't think about when building a website.
 pinned: false
 published: 2025-08-20

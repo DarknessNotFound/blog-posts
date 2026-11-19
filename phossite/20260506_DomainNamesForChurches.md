@@ -1,3 +1,14 @@
+---
+title: Church Website Domains
+slug: church-website-domains
+tags: ['church', 'websites']
+series: building-a-church-website
+summary: The URL of your church can be an important but complicated process. This article walks through getting your church a domain name.
+pinned: false
+published: 2025-05-06
+---
+# Church Website Domains
+
 Your church url is a subtle signal for potential visitors about your church. A good url helps attract visitors but a bad one repels visitors. However, getting a url, aka a domain, can be a complicated process. This article aims to break down this process for church volunteers who’ve never bought a domain before.
 
 ## What are Domains?
@@ -10,7 +21,7 @@ There are a few considerations that go with choosing a domain. The biggest diffe
 
 ### Price
 
-Different domains will have different prices. For example, .com domains will be around \$20 (as of writing this) meanwhile .church domains will be around \$50. Keep this in mind while shopping around, you could save money by switching to a different domain.
+Different domains will have different prices. For example, .com domains will be around $20 (as of writing this) meanwhile .church domains will be around $50. Keep this in mind while shopping around, you could save money by switching to a different domain.
 
 ### Use Case
 
@@ -80,9 +91,4 @@ When choosing a domain broker, you won’t go wrong with any of them recognized 
 
 Your church website’s domain will be a subtle thing but can have a big impact for visitors. Take the time to really think though your domain. This guide isn’t comprehensive but hopefully this gives you a great starting direction for your domain.
 
-## Domains are Complex
-
-Domains seem simple on the surface but have lots of complexity. [Phos Site](http://www.phossite.com) is a website builder designed by christians for the busy pastor, elder, or church member. Let us handle the technical aspects of your website so that you can get back to the real world helping real people.
-
-Photo by [Markus Spiske](https://unsplash.com/@markusspiske?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/photos/a-black-and-white-photo-of-the-word-comm-S7GcgdI7WjQ?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
-
+[[ad]]

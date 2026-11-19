@@ -1,3 +1,12 @@
+---
+title: Using AI in Sermon Prep
+slug: ai-in-sermon-prep
+tags: ['technology', 'pastor']
+series: 
+summary: AI is changing our world whether we like it or not. How does this affect your sermon prep? If at all?
+pinned: false
+published: 2026-03-21
+---
 # Using AI in Sermon Prep
 
 *“I have a wife, three little kids, a full-time job, and a sermon to write for this Sunday. How do I balance my Sunday deadline without sacrificing the integrity of the pulpit?”* – Imaginary Reader
@@ -45,8 +54,8 @@ Additionally, AI tends to be biased towards prompts that it thinks you will like
 LLM usually needs some hand-holding to be useful. Here is some context to help the AI find and recognize sources to use.
 
 * Timeframe (*13th century bc)* and geographical location (*ancient Egypt)*  
-* Relevant places, locations, events, etc.  
-* Purpose of question.  
+* Relevant places, locations, events, etc.
+* Purpose of question.
 * Potential audience.
 
 ### Canaanites Example

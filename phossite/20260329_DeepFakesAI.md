@@ -1,3 +1,12 @@
+---
+title: New Wolf in Sheep’s Clothing - AI Deepfakes
+slug: ai-deepfakes-wolf-sheep-clothing
+tags: ['technology', 'pastor']
+series: 
+summary: AI is a powerful tool that can benefit and harm. Let's look into Deepfakes and how they are negatively affecting society and your congregation.
+pinned: false
+published: 2026-03-29
+---
 # New Wolf in Sheep’s Clothing: AI Deepfakes
 
 AI is a very impressive technology, there are new ways for wolves to harm your flock. AI can now generate very realistic audio, images, and videos called DeepFakes. This has already been used to deceive people and will continue to be a bigger and bigger issue as the technology progresses.

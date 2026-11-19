@@ -1,3 +1,14 @@
+---
+title: Facebook vs Website - What's best for your church?
+slug: facebook-vs-website
+tags: ['church', 'websites']
+series: building-a-church-website
+summary: Facebook or a website?! Which one should you choose to put your church on?
+pinned: false
+published: 2025-11-13
+---
+# Facebook vs Website - What's best for your church?
+
 One common objection we hear often is that a church website is redundant when the church has a Facebook. Why take the time, money, and effort to build a website when a Facebook account is free and easy to use? Today, we will discuss the top 5 reasons why you should have both.
 
 ## Reason \#1: A Church Facebook and a Church Website serve different purposes.
@@ -25,5 +36,3 @@ You don’t technically own your Facebook account so you’ll always be subject 
 ## Your Church Should Have a Website
 
 We should meet people where they are at using the technology of today (without compromising our morals). Most people search for churches in their area using Google and decide to visit a church based on their website. While this doesn’t replace boots-on-the-ground inviting people to church, a website can be a way to increase your reach.
-
-If you don't even know where to begin building a church website, you should check out (Phos Site)\[[https://www.phossite.com](https://www.phossite.com)\]. Phos Site is a form-based website builder that allows anyone who can type and upload files to build a church website. This allows you to focus on the content of your website and none of the complicated technical work. Additionally, Phos Site is affordable for every church.
